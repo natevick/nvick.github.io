@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Nate Vick]]></title>
+  <link href="http://natevick.com/atom.xml" rel="self"/>
+  <link href="http://natevick.com/"/>
+  <updated>2015-01-04T11:47:30-08:00</updated>
+  <id>http://natevick.com/</id>
+  <author>
+    <name><![CDATA[Nate Vick]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
